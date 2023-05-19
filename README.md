@@ -1,2 +1,2 @@
 # Cryptowallet-c
-Future Project using modern web-3 tech 
+Future Project using modern web-3 tech and Solidity
